@@ -1,0 +1,121 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A classic novel set in the American South during the 1930s, dealing with racial injustice and moral growth.",
+    "price": 12.99,
+    "images": "to_kill_a_mockingbird.jpg"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian novel set in a totalitarian society where individuality and truth are suppressed by the ruling party.",
+    "price": 10.95,
+    "images": "1984.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "description": "A classic romantic novel exploring the societal norms and relationships of the early 19th century in England.",
+    "price": 8.5,
+    "images": "pride_and_prejudice.jpg"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "description": "A story set in the Jazz Age, depicting the glamorous and tragic lives of the wealthy elite in New York.",
+    "price": 9.75,
+    "images": "the_great_gatsby.jpg"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "description": "The first book in the beloved fantasy series, following a young wizard's journey through a magical world.",
+    "price": 14.99,
+    "images": "harry_potter_sorcerers_stone.jpg"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "description": "A novel narrated by a teenage boy, exploring his experiences and thoughts while wandering around New York City.",
+    "price": 11.25,
+    "images": "catcher_in_the_rye.jpg"
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Bronte",
+    "description": "A coming-of-age novel following the life of an orphaned governess and her journey to independence and love.",
+    "price": 10.5,
+    "images": "jane_eyre.jpg"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "A fantasy adventure novel about a hobbit's journey to help a group of dwarves reclaim their homeland from a dragon.",
+    "price": 13.25,
+    "images": "the_hobbit.jpg"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "description": "A dystopian novel set in a future society where books are banned, and a fireman's job is to burn any that are found.",
+    "price": 9.99,
+    "images": "images/download(3).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  },
+  {
+    "title": "The Lord of the Rings",
+
+    "author": "J.R.R. Tolkien",
+    "description": "An epic fantasy trilogy following the journey to destroy a powerful ring and defeat the Dark Lord Sauron.",
+    "price": 28.5,
+    "images": "images/download(1).jpg"
+  }
+]
